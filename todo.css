@@ -1,0 +1,12 @@
+h1 {
+    font-size: 4rem;
+}
+
+.letter{
+    transition: color 1000ms;
+}
+
+.emergent{
+    color: red;
+    font-weight: bold;
+}
